@@ -1,0 +1,12 @@
+.btnPlay,
+.btnInfo {
+  @apply flex items-center px-5 py-1.5 gap-3 rounded-md cursor-pointer;
+}
+
+.btnPlay:hover {
+  background-color: #e0e3e5;
+}
+
+.btnInfo:hover {
+  background-color: #333030;
+}
